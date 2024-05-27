@@ -1,5 +1,5 @@
 # Calculo IMC
 
-[Teste em tempo real](https://landingpag.vercel.app/)
+[Teste em tempo real](https://imc-ruby-eight.vercel.app/)
 
-![Alt text](img/image.png)
+![Alt text](img/imcIMG.png)
